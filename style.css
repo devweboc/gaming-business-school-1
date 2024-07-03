@@ -49,10 +49,27 @@ nav ul li{
 color: rgb(240, 233, 233);  
 text-transform: uppercase;
 
+}
+.header-text {
+    height: 150px;
+   max-width: 70%;
+    display:flex;
+    margin:0 auto;
+   
+    align-items: center;
+    text-align: center;
+}
+
+.icon-part-container {
+    display: flex;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(42, 41, 41);
+    color:aliceblue;
+    align-items: center;
+    
 
 
 }
-
-
 
 
